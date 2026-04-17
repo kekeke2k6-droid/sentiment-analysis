@@ -16,11 +16,17 @@ Dự án sử dụng các mô hình gồm Logistic Regression, Naive Bayes, SVM 
 ## Cấu trúc thư mục
 
 IMDB Dataset.csv: Tập dữ liệu (Dataset) chứa 50.000 review phim.
+
 IMDB Processed.csv: Tập dữ liệu (Dataset) sau khi xử lý. 
+
 svm_model.pkl, lr_model.pkl, nb_model.pkl, best_svm_mode.pkl: Mô hình học máy đã huấn luyện
+
 eda.ipynb: Khai phá dữ liệu
+
 experiment1.ipynb: So sánh hai phương pháp xử lý ngôn ngữ tự nhiên Bow và TF-IDF
+
 experiment2.ipynb: So sánh các mô hình học máy với nhau
+
 requirements.txt: Danh sách phiên bản các thư viện cần thiết.
 
 ## Mục tiêu của dự án
